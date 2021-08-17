@@ -3,6 +3,9 @@ A low poly racing car game
 
 ### Screenshots
 <p float="left">
-<img src = "RaceCarGame/Race1.jpg" height=300>
-<img src = "RaceCarGame/Race2.jpg" height=300>
+<img src = "Race1.png" height=300>
+</p>
+
+<p float="left">
+<img src = "Race1.png" height=300>
 </p>
